@@ -1,0 +1,9 @@
+openai
+langchain
+unstructured
+streamlit
+python-dotenv
+PyPDF2
+faiss-cpu
+
+-e .
